@@ -1,0 +1,14 @@
+.container{
+    margin: 50px;
+    
+}
+.container-fluid{
+    background: rgb(217, 255, 0)
+}
+.Col-12{
+    border: 2px solid rgb(0, 0, 0);
+}
+.texto{
+    width: 200px;
+    height: 300px;
+}
